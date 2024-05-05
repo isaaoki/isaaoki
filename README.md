@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there 👋
+#### My name is Isabela and I'm a Computer Science Student at University of Sao Paulo, Brazil
+
+- 🌱 I’m currently learning **WebDev and Java**
 
 <!--
 **isaaoki/isaaoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
