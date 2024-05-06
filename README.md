@@ -1,15 +1,14 @@
 ### Hello there 👋
 #### My name is Isabela and I'm a Computer Science Student at University of Sao Paulo, Brazil
 
-- 🌱 I’m currently learning **WebDev and Java**
+- 🌱 I’m currently learning **WebDev, Java and C**
+- 🔭 I’m currently working on building my first **web application**
 
 <!--
 **isaaoki/isaaoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
