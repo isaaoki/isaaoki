@@ -1,5 +1,6 @@
 # Hi, I'm Isabela Aoki! 👋
 **Backend Developer (Java/Spring) · exploring Machine Learning & Data**
+
 **CS student at USP (University of São Paulo)**
 
 ### 💼 Experience
