@@ -3,17 +3,6 @@
 
 **CS student at USP (University of São Paulo)**
 
-### 💼 Experience
-**Back-end Developer — InReDD Research Group (USP)** · PUB-USP Research & Innovation Scholarship
-Contributing to the development and maintenance of platforms supporting research 
-in Dentistry, Health, and Computing - website and a dental 
-application.
-- Designed and implemented API endpoints in Java Spring Boot
-- Diagnosed and resolved back-end bugs across the platform
-- Wrote and maintained technical documentation for the codebase
-- Built an async translation pipeline (RabbitMQ + Python worker + local LLM via Ollama) to auto-translate user-submitted content
-- Stack: Java, Spring Boot, PostgreSQL, Docker, Git/GitHub
-
 ### 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
